@@ -252,7 +252,7 @@
     <string name="eq_dance">Танцевальная</string>
     <string name="eq_metal">Метал</string>
     <string name="eq_delete">Удалить</string>
-    <string name="eq_delete_success">Готово.</string>
+    <string name="eq_delete_success">Готово</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_preset_create">Создать</string>
     <string name="eq_preset_rename">Переименновать</string>
